@@ -4,7 +4,7 @@
 # company-profiler
 
 ### Details 
-The program loads the different html files using fetch to display basic company information.
+The program routes to the different html files using fetch to display basic company information.
 #### Potential Improvements
 It could dynamically inject data from company sites to provide the user with concise profiles.
 #### How to Run
