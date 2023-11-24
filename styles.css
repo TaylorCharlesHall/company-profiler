@@ -1,0 +1,15 @@
+h1 {
+font-family: georgia, bold;  
+}
+
+#comp{
+margin-left: 200px;
+width: 200px;
+height: 70px;
+}
+
+p{
+font-family: lucida; 
+font-size: large;
+text-indent: 50px;
+}
