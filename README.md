@@ -1,5 +1,5 @@
 
-<img src="" width='100'/>
+<img src="company.jpg" width='100'/>
 
 # company-profiler
 
